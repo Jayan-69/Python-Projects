@@ -1,0 +1,3 @@
+Strings
+
+Strings are used in all the programming languages to store a sequence of characters. Strings are index startng from 0 and always the final index will be 1 less than the lenth of the string.

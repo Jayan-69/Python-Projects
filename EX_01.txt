@@ -1,0 +1,16 @@
+Python Programming
+Variables
+
+# Variables are use to hold data items in programming. The data items can be manipulated with operators. In python when creating variables no need to specify the type.   The type will be automatically determine by python.
+
+Operators
+
+# Operators in programming are used to manipulate data items. 
+# Before using a variable in any operation it must be define first.
+
+Comparison Operators
+
+# Comparison operators takes the input in neumerical format and give the output in boolean type.
+
+Assignment Operators
+#

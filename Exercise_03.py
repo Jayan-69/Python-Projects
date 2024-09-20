@@ -1,0 +1,10 @@
+Cu_No = int(input("Enter Customer Number :"))
+Cu_Name = (input("Enter Customer Name :"))
+Su_Q = float(input("Enter Sugar Quantity :"))
+Su_Pr = int(input("Enter Sugar Price :"))
+Tea_Q = float(input("Enter Tea Quantity :"))
+Tea_Pr = int(input("Enter Tea Price :"))
+Due_Amount = Su_Q * Su_Pr + Tea_Q * Tea_Pr
+print("Customer Number :", Cu_No)
+print("Customer Name :", Cu_Name)
+print("Due Amount :", Due_Amount)
